@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\bin\Debug\net10.0\restaVectores.exe
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\bin\Debug\net10.0\restaVectores.deps.json
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\bin\Debug\net10.0\restaVectores.runtimeconfig.json
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\bin\Debug\net10.0\restaVectores.dll
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\bin\Debug\net10.0\restaVectores.pdb
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.sourcelink.json
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.dll
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\refint\restaVectores.dll
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.pdb
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\restaVectores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\restaVectores\obj\Debug\net10.0\ref\restaVectores.dll

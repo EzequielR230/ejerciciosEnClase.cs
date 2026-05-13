@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.sourcelink.json
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\bin\Debug\net10.0\matriz.exe
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\bin\Debug\net10.0\matriz.deps.json
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\bin\Debug\net10.0\matriz.runtimeconfig.json
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\bin\Debug\net10.0\matriz.dll
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\bin\Debug\net10.0\matriz.pdb
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.dll
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\refint\matriz.dll
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.pdb
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\matriz.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\grupo6Progamacion.cs\matriz\obj\Debug\net10.0\ref\matriz.dll
